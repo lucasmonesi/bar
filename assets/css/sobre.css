@@ -1,0 +1,14 @@
+.menu-lateral {
+    display: flex;
+    flex-direction: column;
+    background-color: #15191C;
+    width: 75vw;
+    height: 100%;
+
+    position: absolute;
+    left: -100vw;
+    transition: .25s;
+}
+.menu-lateral {
+    height: 100%;
+}
